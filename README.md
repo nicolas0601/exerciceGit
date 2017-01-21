@@ -1,1 +1,2 @@
 # exerciceGit
+pull exercice
